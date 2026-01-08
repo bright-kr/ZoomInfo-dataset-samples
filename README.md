@@ -2,7 +2,7 @@
 
 <h2>1001개 ZoomInfo 회사의 샘플 データセット</h2>
 
-![ZoomInfo dataset header](https://github.com/luminati-io/ZoomInfo-dataset-samples/blob/main/zoominfo-datasets.PNG)
+![ZoomInfo dataset header](https://github.com/bright-kr/ZoomInfo-dataset-samples/blob/main/zoominfo-datasets.PNG)
 
 1000개가 넘는 회사로 구성된 ZoomInfo データセット 샘플입니다. データセット은 <b>Bright Data API</b>를 사용하여 추출되었습니다.
 
