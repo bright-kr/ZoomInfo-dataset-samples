@@ -1,4 +1,4 @@
-# ZoomInfo-dataset-samples
+# ZoomInfo 데이터셋 샘플
 
 <h2>1001개 ZoomInfo 회사의 샘플 データセット</h2>
 
